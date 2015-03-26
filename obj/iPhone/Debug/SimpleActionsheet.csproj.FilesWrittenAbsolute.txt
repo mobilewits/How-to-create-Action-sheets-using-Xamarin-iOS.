@@ -1,0 +1,12 @@
+/Users/harry/Projects/SimpleActionsheet/SimpleActionsheet/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/harry/Projects/SimpleActionsheet/SimpleActionsheet/obj/iPhone/Debug/ibtool/LaunchScreen.nib
+/Users/harry/Projects/SimpleActionsheet/SimpleActionsheet/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/harry/Projects/SimpleActionsheet/SimpleActionsheet/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib
+/Users/harry/Projects/SimpleActionsheet/SimpleActionsheet/obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib
+/Users/harry/Projects/SimpleActionsheet/SimpleActionsheet/obj/iPhone/Debug/actool/partial-info.plist
+/Users/harry/Projects/SimpleActionsheet/SimpleActionsheet/obj/iPhone/Debug/actool/asset-manifest.plist
+/Users/harry/Projects/SimpleActionsheet/SimpleActionsheet/obj/iPhone/Debug/
+/Users/harry/Projects/SimpleActionsheet/SimpleActionsheet/bin/iPhone/Debug/SimpleActionsheet.exe.mdb
+/Users/harry/Projects/SimpleActionsheet/SimpleActionsheet/bin/iPhone/Debug/SimpleActionsheet.exe
+/Users/harry/Projects/SimpleActionsheet/SimpleActionsheet/obj/iPhone/Debug/SimpleActionsheet.exe
+/Users/harry/Projects/SimpleActionsheet/SimpleActionsheet/obj/iPhone/Debug/SimpleActionsheet.exe.mdb
